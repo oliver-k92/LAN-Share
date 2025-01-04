@@ -16,6 +16,8 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+
+
 #include "device.h"
 
 Device::Device(const QString &id, const QString &name, const QString &osName, const QHostAddress &addr)
