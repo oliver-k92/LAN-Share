@@ -2,7 +2,6 @@
     <img src="src/img/icon.png"/>
 </p>
 
-
 [![Build Status](https://travis-ci.org/abdularis/LAN-Share.svg?branch=master)](https://travis-ci.org/abdularis/LAN-Share)
 
 # LAN Share
