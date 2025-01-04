@@ -27,6 +27,8 @@ simply download the AppImage and run it on all linux distribution
 
 See the github release page or go to [Softpedia](https://www.softpedia.com/get/Internet/File-Sharing/LAN-Share.shtml)
 
+
+
 ## Compiling instructions
 To compile LANShare you need to install Qt tools, on Debian you can use:
 ```
